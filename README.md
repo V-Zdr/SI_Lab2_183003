@@ -21,14 +21,14 @@
 Табелата за овој критериум може да ја најдете во репото под име Every Branch.xlsx. 
 Има вкупно 5 тест случаи според овој критериум.
 
-![Every Branch Criteria](EB slika.png)
+![Every Branch Criteria](EB slika.jpg)
 
 * Тест случаи според критериумот **Every Path**
 
 Табелата за овој критериум може да ја најдете во репото под име Every Path.xlsx. 
 Има вкупно 5 тест случаи според овој критериум.
 
-![Every Path Criteria](EP slika.png)
+![Every Path Criteria](EP slika.jpg)
 
 * Објаснување на напишаните unit tests
 
